@@ -20,7 +20,7 @@
 
 I am a React Native developer with 6+ years of experience building secure, high-performance mobile applications for streaming and fintech platforms. I have worked on wallets, payments, multi-currency flows, and transaction histories, and I’m familiar with KYC/KYB onboarding and KYT/AML compliance-friendly UI workflows, ensuring audit-ready interfaces and precise financial handling.
 
-- 🔭 Currently working on **Training ai model in my gaming machine :D**
+- 🔭 Currently Learning: [Agentic AI from Panaversity](https://github.com/panaversity/learn-agentic-ai)
 - 📫 Reach me at **ahsanmuneer81@gmail.com**
 - 🌐 Portfolio: [https://www.ahsanmunir.space/](https://www.ahsanmunir.space/)
 - 📍 Based in **Dubai, UAE**
