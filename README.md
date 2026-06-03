@@ -48,20 +48,6 @@ I am a React Native developer with 6+ years of experience building secure, high-
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahsanmunyr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsanmunyr&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=ahsanmunyr&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
